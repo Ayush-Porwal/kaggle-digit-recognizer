@@ -7,3 +7,5 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
 
 Click [here](https://www.kaggle.com/c/digit-recognizer/overview) to go the competition.
+
+Final Best Score Achieved: 0.99128
